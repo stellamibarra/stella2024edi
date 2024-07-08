@@ -1,1 +1,1 @@
-# stella2024edi
+Primera actualizacion del README
