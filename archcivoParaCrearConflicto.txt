@@ -1,0 +1,2 @@
+Archivo para generar conflictos
+Primer conflicto
